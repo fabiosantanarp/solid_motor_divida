@@ -1,4 +1,4 @@
-# Sistema de Motor de Dívida para para aplicação de conhecimentos do SOLID
+# Sistema de Motor de Dívida para aplicação de conhecimentos do SOLID com TDD
 ## Rodar
 - `docker run --name mysql-test -e MYSQL_ROOT_PASSWORD=root -d mysql`
 - `mysql -h {seu_ip} -u root -proot < query.sql`
