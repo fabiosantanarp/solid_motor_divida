@@ -26,7 +26,7 @@ O código está aberto para extensão, pois se pode adicionar novos tipos de cli
 
 - L - Liskov Substitution Principle (Princípio da Substituição de Liskov):
 
-Como mencionado anteriormente, as classes derivadas (CorporativeClient e IndividualClient) podem ser substituídas pelas interfaces mais genéricas (ClientInterface, CorporateClientInterface, IndividualClientInterface) sem afetar o comportamento do programa.
+As classes derivadas (CorporativeClient e IndividualClient) podem ser substituídas pelas interfaces mais genéricas (ClientInterface, CorporateClientInterface, IndividualClientInterface) sem afetar o comportamento do programa.
 
 - I - Interface Segregation Principle (Princípio da Segregação de Interfaces):
 
