@@ -9,7 +9,7 @@
     Risco Médio: Se o valor total das suas dívidas for superior a R$5.000,00 ou mais de 5 dívidas abertas de qualquer valor.
     Risco Baixo - Qualquer dívida, independentemente do valor.
 
-## Regras PF Score de Risco
+## Regras PJ Score de Risco
     Risco alto: Se o valor total das suas dívidas for superior a R$50.000,00 ou mais de 20 dívidas abertas de qualquer valor.
     Risco Médio: Se o valor total das suas dívidas for superior a R$20.000,00 ou mais de 10 dívidas abertas de qualquer valor.
     Risco Baixo - Qualquer dívida, independentemente do valor.
